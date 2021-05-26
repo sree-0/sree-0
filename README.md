@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sree-0
+- 👋 Hi, I’m @sreerag
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 sree-0/sree-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
